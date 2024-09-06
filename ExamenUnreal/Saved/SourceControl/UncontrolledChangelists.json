@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Textures/T_Concrete_Grime_D1.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Textures/T_Ground_Grass_D1.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Textures/T_Wood_Floor_Walnut_D1.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Textures/T_CobbleStone_Rough_D1.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/Level1.umap",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Materials/LandscapeMaterial.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/Untitled_2_sharedassets/Cobble_Path_LayerInfo.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/Untitled_2_sharedassets/Dirt_LayerInfo.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/Untitled_2_sharedassets/Grass_LayerInfo.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/Untitled_2_sharedassets/Wood_LayerInfo.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Spline/MySpline.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Textures/T_CobbleStone_Pebble_M1.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Textures/T_CobbleStone_Pebble_N1.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Textures/T_CobbleStone_Pebble_D1.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/_GENERATED/Radu/Box_DBC0A000.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Materials/PlatformMaterial.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Materials/PillarMaterial.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Pawns/BearHead.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Pawns/Rotund.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Materials/TransparentMaterial.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Actors/Rotund.uasset",
+				"D:/_PROJECTS/_Unreal/ExamenUnreal/Content/MyContent/Actors/BearHead.uasset"
+			]
+		}
+	]
+}
