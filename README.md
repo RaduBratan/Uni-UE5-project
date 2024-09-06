@@ -1,2 +1,1 @@
-# Uni-UE5-project
-Proiect la materia Jocuri in UE5 realizat de Radu-George Bratan, grupa 342
+This is a project I created for my Games in Unreal Engine 5 class at UniBuc FMI.
